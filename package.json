@@ -1,0 +1,24 @@
+{
+  "name": "fullstack-live-video-streaming",
+  "version": "1.0.0",
+  "description": "Live Streaming App with Node.js and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckomop0x/fullstack-live-video-streaming.git"
+  },
+  "keywords": [
+    "video",
+    "react",
+    "nodejs"
+  ],
+  "author": "Pavel Ckomop0x Klochkov <paul.klochkov@gmail.com> (https://ckomop0x.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ckomop0x/fullstack-live-video-streaming/issues"
+  },
+  "homepage": "https://github.com/ckomop0x/fullstack-live-video-streaming#readme"
+}
